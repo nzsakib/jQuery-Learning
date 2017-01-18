@@ -1,0 +1,10 @@
+
+body {
+    width: 600px;
+    margin: 100px auto 0;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
